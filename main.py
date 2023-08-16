@@ -1,4 +1,4 @@
 def yaz():
-    print('Sistem çalışıyor')
+    print('Sistem çalışıyor...')
 
 yaz()
